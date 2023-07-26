@@ -35,6 +35,48 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "milk powder",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "cake",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 9
+    },
+    {
+      "name": "milk powder",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 10
+    },
+    {
+      "name": "milk powder",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 11
+    },
+    {
+      "name": "milk powder",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 12
+    },
+    {
+      "name": "milk powder",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 13
     }
   ]
 }
